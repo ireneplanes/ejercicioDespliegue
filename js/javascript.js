@@ -1,3 +1,3 @@
 function saludo(){
-    alert ("hola !!!");
+    alert ("AdioS !!!");
 }
